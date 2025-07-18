@@ -21,3 +21,56 @@ To explore and visualize key HR metrics related to:
 
 ### Q2: Show insights on ratings based on gender.
 - **Answer**: Ratings are fairly distributed across genders, but a higher number of females received "Very Good" and "Good" ratings, while males had a higher percentage in the "Average" and "Poor" categories.
+
+### Q3: Is there a gender pay gap? Which departments or regions are affected?
+- **Answer**: The undisclosed groups have the highest average salary, followed by males, then females. Also, males generally earn more than females across departments except for Marketing, Training, and Engineering which females earn more than male. There is a pay gap in each region and it is a higher a bit in Lagos.
+
+### Q4: Does Palmoria meet the $90,000 minimum salary regulation?
+- **Answer**: No. Only 292 out of 946 employees earn $90,000 or more. The majority (654 employees) are non-compliant.
+
+- **Bonus Insight**: Salary bands reveal that most employees earn between $70,000–$80,000. Kaduna has the highest concentration of high earners (Employees earning $90,000 and above).
+
+### Q5: Bonus and Total Compensation
+- **Answer**: Bonuses were allocated based on performance ratings. Total compensation (salary + bonus) was calculated for each employee.
+   - **Total Bonus Paid (Company-wide)**: $72,000,000
+   - **Bonus by Region**:  
+     - **Lagos**: $?
+     - **Kaduna**: $.     ?
+     - **Abuja**: $?
+
+## Dashboard Structure
+
+The report is structured into **four dashboard pages**:
+
+### **1. Palmoria: Gender Presence & Performance**
+- Gender distribution by region and department
+- Performance ratings breakdown by gender
+- Total number of employees
+- Average salary by gender
+
+### **2. Palmoria: Pay Equity Analysis**
+- Salary comparison by gender across departments
+- Salary by gender and location
+- Average salary by gender
+- Overall average salary
+
+### **3. Palmoria: Regulatory Compliance & Pay Distribution**
+- Number of employees earning below $90,000
+- Pay band distribution by region
+- Compliance rate with new salary regulations
+
+### **4. Palmoria: Bonus Distribution & Total Compensation** 
+- Bonus allocation per employee (based on rating)
+- Total compensation (salary + bonus)
+- Bonus payout by region and company-wide
+
+- # Key Insights
+- Over **69%** of Palmoria employees earn below the required **$90,000** minimum salary.
+- Gender distribution varies slightly across departments, with some areas showing imbalance.
+- Males tend to have higher average salaries in key departments, which indicate a gender pay gap.
+- The average salary across the company is **$73.7K**.
+
+## Report Screenshots
+- Dashboard Previews:Due to technical issues it will be uploaded shortly.
+
+

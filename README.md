@@ -71,6 +71,7 @@ The report is structured into **four dashboard pages**:
 - The average salary across the company is **$73.7K**.
 
 ## Report Screenshots
-- Dashboard Previews:Due to technical issues it will be uploaded shortly.
+- Dashboard Previews:
+- 
 
 

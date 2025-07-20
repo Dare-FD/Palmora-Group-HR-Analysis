@@ -1,4 +1,4 @@
-# Palmora-Group-HR-Analysis
+# Palmoria-Group-HR-Analysis
 This project analyzed gender inequality issues for **Palmoria Group**  using Microsoft Power BI. The report explores gender-related patterns in employee distribution, performance ratings, and salary structure. It also includes a compliance check with the newly adopted salary regulation and with a breakdown of bonus payouts by region.These findings help support data-driven decision-making and promote fairness across the organization.
 
 ## Objective
@@ -20,7 +20,7 @@ To explore and visualize key HR metrics related to:
 - **Answer**: The gender distribution across the 946 employees shows a slight difference between males and females. With the value of 465 employees for male, 441 employees for female and 40 employees undisclosed. Also some departments like Legal, Accounting have more male representation.
 
 ### Q2: Show insights on ratings based on gender.
-- **Answer**: Ratings are fairly distributed across genders, but a higher number of females received "Very Good" and "Good" ratings, while males had a higher percentage in the "Average" and "Poor" categories.
+- **Answer**: Ratings are fairly distributed across genders, but a higher number of females received "Very Good" and "Good" ratings, while males had a higher percentage in the "Very Poor", "Poor", and "Average" categories.
 
 ### Q3: Is there a gender pay gap? Which departments or regions are affected?
 - **Answer**: The undisclosed groups have the highest average salary, followed by males, then females. Also, males generally earn more than females across departments except for Marketing, Training, and Engineering which females earn more than male. There is a pay gap in each region and it is a higher a bit in Lagos.
@@ -32,11 +32,11 @@ To explore and visualize key HR metrics related to:
 
 ### Q5: Bonus and Total Compensation
 - **Answer**: Bonuses were allocated based on performance ratings. Total compensation (salary + bonus) was calculated for each employee.
-   - **Total Bonus Paid (Company-wide)**: $72,000,000
+   - **Total Bonus Paid (Company-wide)**: $71,922,000
    - **Bonus by Region**:  
-     - **Lagos**: $?
-     - **Kaduna**: $.     ?
-     - **Abuja**: $?
+     - **Lagos**: $19,500,000
+     - **Kaduna**: $27,500,00
+     - **Abuja**: $24,900,000
 
 ## Dashboard Structure
 
@@ -70,8 +70,16 @@ The report is structured into **four dashboard pages**:
 - Males tend to have higher average salaries in key departments, which indicate a gender pay gap.
 - The average salary across the company is **$73.7K**.
 
-## Report Screenshots
-- Dashboard Previews:
-- 
+## Palmoria-Group-HR-Analysis Dashboards
+###  Palmoria: Gender Presence & Performance Dashboard
+![Palmoria: Gender Presence & Performance Dashboard](dashboard1.png)
+###  Palmoria: Pay Equity Analysis Dashboard
+![Palmoria: Pay Equity Analysis Dashboard](dashboard2.png)
+###  Palmoria: Regulatory Compliance & Pay Distribution Dashboard
+![Palmoria: Regulatory Compliance & Pay Distribution Dashboard](dashboard3.png)
+###  Palmoria: Bonus Distribution & Total Compensation Dashboard
+![Palmoria: Bonus Distribution & Total Compensation Dashboard](dashboard4.png)
+
+
 
 
